@@ -1,9 +1,9 @@
 # Introduction to Object Oriented Programming
-# Summer 2022
+# Winter 2023-2024
 
 ## Bar Ilan University
 
-### Instructor: Dr. Hemi Leibowitz
+### Instructor: Dr. Marina
 
 ### TAs: Hodaya Adler
 
