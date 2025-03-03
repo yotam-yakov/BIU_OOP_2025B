@@ -1,11 +1,12 @@
 # Introduction to Object Oriented Programming
-# Winter 2023-2024
+# Spring 2024-2025
 
 ## Bar Ilan University
 
 ### Instructor: Dr. Marina
 
-### TAs: Hodaya Adler
+### TAs: Yasmin Haddad, 
+
 
 
 
