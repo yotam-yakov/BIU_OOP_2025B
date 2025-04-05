@@ -1,3 +1,7 @@
+import src.Line;
+import src.Point;
+
+
 /**
  * This class does some simple tessting of the Point and Line classes.
  */
@@ -70,7 +74,7 @@ public class GeometryTester {
         boolean mistakes = false;
         Line l1 = new Line(12, 2, 9, -2);
         Line l2 = new Line(0, 0, 20, 0);
-        Line l3 = new Line(9, 2, 12, -2);
+        // Line l3 = new Line(9, 2, 12, -2);
 
         if (!l1.isIntersecting(l2)) {
             System.out.println("Test isIntersecting failed (1).");
